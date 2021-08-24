@@ -1,2 +1,3 @@
-# LessonTwo
- It's me learning GIT & GITHUB
+# Learning 
+
+I'm lerning GIT AND GITHUB from Tanay Sir 
